@@ -4,7 +4,7 @@ Tugas 1 Pemrograman Web 1 - S1 Sistem Informasi FTI UNISKA MAB
 
 **Nama**: Ahmad Rehan
 **NPM**: 2510020096
-**Tautan**: https://namaanda.github.io/kopi-banua/
+**Tautan**: https://reeorangecounty-cloud.github.io/kopi-banua/
 
 ## Deskripsi
 Landing page untuk UMKM kedai kopi. Menampilkan profil usaha,
